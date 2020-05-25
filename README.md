@@ -11,14 +11,25 @@ This core piston is made to work with **MODEL** of gravity coring device **TUBE 
 
 * Plastic body
   * Two 3D-printable components
-  * **SUGGESTED FILL?**
+  * **SUGGESTED FILL DENSITY?**
   * Suggested material: ABS
 * Rubber gasket **ADD INFO**
 * Fasteners
   * Screws: **ADD INFO**
   * Threaded inserts: **ADD INFO**
 
-## Assembly instructions
+## Instructions
+
+Here, "bottom" refers to the plastic part that is held by the user, and "top" refers to the plastic part that is in direct contact with the core. These are connected by screws once assembly is complete.
+
+1. Generate gCode for your 3D printer. We use [Slic3r with a Prusa 3D printer](https://www.prusa3d.com/prusaslicer/).
+2. Print using ABS. **@bschulz1701: Are there heating concerns on this build? If so, we should copy the wording from tls-target.**
+3. Cut rubber rounds **diameter**. We use a laser cutter, but a compass with a pen knife should work well too.
+4. Install threaded inserts into the bottom printed component. **@bschulz1701: installation method depends on type -- any info here?**
+5. Center the rubber gasket over the bottom plastic component. **@bschulz1701: any tips on centering?**
+6. Place the top component atop the gasket and bottom component, sandwiching the gasket betweent the two plastic parts.
+7. Insert the three screws, piercing the rubber gasket in the process. **@bschulz1701 or do you cut holes in the gasket beforehand?** Ensure that these are tight
+8. Inspect your piston for any obvious problems, and test it in the lab with a core barrel.
 
 ## Rendered images
 
