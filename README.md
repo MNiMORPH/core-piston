@@ -5,7 +5,7 @@
 **Design by Bobby Schulz.** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
 [Add persistent Zenodo link and DOI here once these are generated.]
 
-This core piston is made to work with **MODEL** of gravity coring device **TUBE DIAMETER**. The honeycomb structure within the 3D print ensures that it floats when invariably dropped into the water.
+This core piston is made to work with a Pylonex HTH Gravity Corer with a 70mm tube diamter. The honeycomb structure within the 3D print ensures that it floats when invariably dropped into the water.
 
 ## Technical specifications
 
