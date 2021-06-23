@@ -8,7 +8,7 @@
 
 This core piston is made to work with a Pylonex HTH Gravity Corer with a 70mm tube diamter. The honeycomb structure within the 3D print ensures that it floats when invariably dropped into the water.
 
-## Technical specifications
+## Materials
 
 * Plastic body
   * Two 3D-printable components
