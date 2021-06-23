@@ -24,9 +24,9 @@ Here, "bottom" refers to the plastic part that is held by the user, and "top" re
 
 1. Generate gCode for your 3D printer. We use [Slic3r with a Prusa 3D printer](https://www.prusa3d.com/prusaslicer/).
 2. Print using ABS. We suggest a bright color that you can see amidst the muck.
-3. Cut rubber rounds **diameter**. We use a laser cutter, but a compass with a pen knife should work well too.
-4. Install threaded inserts into the bottom printed component. **@bschulz1701: installation method depends on type -- any info here?**
-5. Center the rubber gasket over the bottom plastic component. **@bschulz1701: any tips on centering?**
+3. Cut rubber rounds **diameter**. We use a laser cutter, but a compass with a pen knife should work well too. **@awickert: Add McMaster tools once verified**
+4. Cut holes for the three screws (1/4") using the laser cutter or a punch **@awickert: Same as above**
+5. Install threaded inserts into the bottom printed component. **@bschulz1701: installation method depends on type -- any info here?**
 6. Place the top component atop the gasket and bottom component, sandwiching the gasket betweent the two plastic parts.
 7. Insert the three screws, piercing the rubber gasket in the process. **@bschulz1701 or do you cut holes in the gasket beforehand?** Ensure that these are tight
 8. Inspect your piston for any obvious problems, and test it in the lab with a core barrel.
