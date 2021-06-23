@@ -35,6 +35,10 @@ Here, "bottom" refers to the plastic part that is held by the user, and "top" re
 
 Images from bottom to top in the direction from user's hand inserting the piston to top of core barrel.
 
+### Bottom
+
+This bottom portion of the piston is counterintuitively called ["Plug Top"](https://github.com/umn-earth-surface/core-piston/blob/master/Plug_Top_MultiHole.STL). Maybe we'll change the name.
+
 ![Bottom](images/bottom-3Dmodel-perspective.png)
 
 ***Bottom plastic component of core piston.*** *The thinner portion to the lower right is held to insert the piston into the core barrel in order to seal it and keep the core from falling out. Not visible is a hole that goes partway through the piston and can be used with a dowel to extrude the core out of the top of the barrel. On the upper left are three holes to hold threaded inserts for screws that connect the top half and bottom halves of the piston. A circular rubber gasket sits between these two halves, held in place by the screws.*
@@ -44,6 +48,9 @@ Images from bottom to top in the direction from user's hand inserting the piston
 
 ***Bottom side of top plastic component of core piston.*** *Screws pass between the three holes shown here, through the rubber gasket, and into the bottom plastic component (shown above). The angled edges of this component force the rubber gasket to bend towards the bottom of the piston, pinning it to the mating angled faces on the bottom plastic component. This ensures that the piston may extrude the core, but locks it against sliding downwards.*
 
+### Top
+
+This top portion of the piston is counterintuitively called ["Plug Base"](https://github.com/umn-earth-surface/core-piston/blob/master/Plug_Base_MultiHole.STL). Again, maybe we'll change the name. Or maybe not.
 
 ![Top of top](images/top-3Dmodel-top-core-base.png)
 
