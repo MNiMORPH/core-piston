@@ -13,10 +13,12 @@ This core piston is made to work with a Pylonex HTH Gravity Corer with a 70mm tu
   * Two 3D-printable components
   * **SUGGESTED FILL DENSITY?**
   * Suggested material: White or brightly colored ABS
-* Rubber gasket **ADD INFO**
+* Rubber seal
+  * Rubber sheet: [1/8" thick, durometer 60A](https://www.mcmaster.com/8716K24-8716K162/). Get a bigger one than this 6"x6" sheet if you want to make more, of course!
+  * Circular cutter and hole punch, unless you have a laser cutter. **@awickert: give McMaster items once proving that they actually work.**
 * Fasteners
-  * Screws: **ADD INFO**
-  * Threaded inserts: **ADD INFO**
+  * Screws: [1-1/2" long 1/4"-20 flat head hex drive](https://www.mcmaster.com/92210A546/). You probably don't need the hex drive part ;) but the rest is important, as is the angle made by the bottom flat head (because our countersunk hole fits it).
+  * Threaded inserts: Either [these basic ones](https://www.mcmaster.com/90742A113/) or [these pull-out-resistant ones](https://www.mcmaster.com/90363A034/). Haven't decided which yet!
 
 ## Instructions
 
