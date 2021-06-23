@@ -2,8 +2,9 @@
 
 ***3D-printable piston to hold a sediment core in its barrel***
 
-**Design by Bobby Schulz.** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
-[Add persistent Zenodo link and DOI here once these are generated.]
+**Design by [Bobby Schulz](https://github.com/bschulz1701); documentation by [Andy Wickert](https://github.com/awickert).** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
+
+***[Add persistent Zenodo link and DOI here once these are generated.]***
 
 This core piston is made to work with a Pylonex HTH Gravity Corer with a 70mm tube diamter. The honeycomb structure within the 3D print ensures that it floats when invariably dropped into the water.
 
