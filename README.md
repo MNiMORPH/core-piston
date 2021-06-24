@@ -2,7 +2,7 @@
 
 ***3D-printable piston to hold a sediment core in its barrel***
 
-**Design by [Bobby Schulz](https://github.com/bschulz1701); documentation by [Andy Wickert](https://github.com/awickert).** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
+**Design by [Bobby Schulz](https://github.com/bschulz1701); documentation by [Andy Wickert](https://github.com/awickert); testing and additional documentation by [Alex Waheed](https://github.com/alexwaheed).** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
 
 ***[Add persistent Zenodo link and DOI here once these are generated.]***
 
