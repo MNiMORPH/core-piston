@@ -19,7 +19,7 @@ This core piston is made to work with a Pylonex HTH Gravity Corer with a 70mm tu
   * Circular cutter and hole punch, unless you have a laser cutter. **@awickert: give McMaster items once proving that they actually work.** **@bschulz1701: Diameter**
 * Fasteners
   * Screws: [1-1/2" long 1/4"-20 flat head hex drive](https://www.mcmaster.com/92210A546/). You probably don't need the hex drive part ;) but the rest is important, as is the angle made by the bottom flat head (because our countersunk hole fits it).
-  * Threaded inserts: Either [these basic ones](https://www.mcmaster.com/90742A113/) or [these pull-out-resistant ones](https://www.mcmaster.com/90363A034/). Haven't decided which yet!
+  * Threaded inserts: [1/4"-20 Pull-out-resistant](https://www.mcmaster.com/90363A034/).
 
 ## Instructions
 
